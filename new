@@ -55,5 +55,7 @@ int main()
 	a[0].print();
 	a[2].print();
 	a[4].print();
-                cout<<"successfully change"<<endl;
+                cout<<"successfully new"<<endl;
+	cout<<"creat new branch"<<endl;
+	
 }
